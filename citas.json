@@ -1,0 +1,18 @@
+[
+  {
+    "Operaciones": "registrar",
+    "nombreAnimal": "Lucy",
+    "edad": "4 años",
+    "tipoAnimal": "canino",
+    "colorAnimal": "negro patas blancas",
+    "Enfermedad": "otitis"
+  },
+  {
+    "Operaciones": "registrar",
+    "nombreAnimal": "Sam",
+    "edad": "2 años",
+    "tipoAnimal": "canino",
+    "colorAnimal": "negro con blanco",
+    "Enfermedad": "esterilización"
+  }
+]
